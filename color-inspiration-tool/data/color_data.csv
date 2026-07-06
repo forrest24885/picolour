@@ -1,0 +1,5 @@
+color_name,hex_code,rgb,description
+red,#FF0000,"255, 0, 0",纯红色
+blue,#0000FF,"0, 0, 255",纯蓝色
+green,#00FF00,"0, 255, 0",纯绿色
+yellow,#FFFF00,"255, 255, 0",纯黄色
